@@ -85,6 +85,6 @@ object HTTPService extends DefaultJsonProtocol with Directives with SprayJsonSup
 object Main {
   def main(argv: Array[String]):Unit = {
     HTTPService.run
-    dadawda
+   
   }
 }
